@@ -20,7 +20,7 @@ CWSF requires Python 3.10 or higher.
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/peveleigh/cwsf.git
    cd cwsf
    ```
 
@@ -95,7 +95,3 @@ The `cwsf` command provides several subcommands:
   - `utils/`: Logging, notifications, and history tracking.
 - `configs/`: Directory for user-defined YAML configurations.
 - `docs/`: Additional documentation (Security, Configuration details).
-
-## License
-
-[Specify License Here]
