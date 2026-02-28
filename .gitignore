@@ -1,0 +1,10 @@
+.*
+!.gitignore
+/configs/
+/cwsf/__pycache__/
+/cwsf/*/__pycache__/
+/cwsf\.egg-info/
+/output/
+/tests/
+*\.md
+!README.md
